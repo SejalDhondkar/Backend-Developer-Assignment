@@ -27,7 +27,7 @@
 
 - Response:
 {
-"token": <jwt-token>
+"token": "jwt-token"
 }
 
 
